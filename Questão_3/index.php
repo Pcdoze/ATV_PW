@@ -1,15 +1,10 @@
 <!--
-Faça um documento HTML que permita ao usuário digitar a base maior, a base menor e a altura de um trapézio. Em seguida, •Faça um script PHP que receba os dados submetidos pelo documento HTML anterior (use a variável $_REQUEST no script e o método POST no HTML), calcula e exiba sua área;
-
-Obs.: os códigos devem ser anexado a sua respectiva questão e o código copiado e colado no corpo da resposta abaixo.
-!-->
-<!--
-Faça um documento HTML que permita ao usuário digitar a base maior, a base menor e a altura de um trapézio. Em seguida, •Faça um script PHP que receba os dados submetidos pelo documento HTML anterior (use a variável $_REQUEST no script e o método POST no HTML), calcula e exiba sua área;
-
-
-
-Obs.: os  action="request.php"códigos devem ser anexado a sua respectiva questão e o código copiado e colado no corpo da resposta abaixo.
-!-->
+Equipe:
+    Matheus Fialho Barbosa
+    Bianca Schiochet Tiepolo
+    Kleber Herivelto de Lima Cavalcanti Filho
+    Gabriel Rodrigues Leite S
+-->
 
 <html>
 	<head>	
