@@ -1,10 +1,10 @@
 <!--
-Faça um documento HTML que permita ao usuário digitar o nome de um aluno e suas duas notas na disciplina de Programação Web;
- •Em seguida faça um script PHP que receba os dados submetidos a partir do documento HTML anterior, calcula a média do aluno e exiba a seguinte mensagem: “O aluno XXXXX ficou com XX,X de média”;
- •Use o método POST no formulário!
-
-Obs.: os códigos devem ser anexado a sua respectiva questão e o código copiado e colado no corpo da resposta abaixo.
-!-->
+Equipe:
+    Matheus Fialho Barbosa
+    Bianca Schiochet Tiepolo
+    Kleber Herivelto de Lima Cavalcanti Filho
+    Gabriel Rodrigues Leite S
+-->
 
 <html>
 	<head>	
