@@ -7,20 +7,15 @@ Equipe:
 -->
 
 <html>
-	<head>	
-		<title> MEDIA </title>
-	</head>
-	<body>
+    <head>	
+        <title> MEDIA </title>
+    </head>
+    <body>
     <form action="request.php" method="POST">
-			Base maior: <input type="text" name="basemaior" id="basemaior"/><br>
-			Base menor: <input type="text" name="basemenor" id="basemenor"/><br>
-			Altura: <input type="text" name="altura" id="altura"/><br>
-			<input type="submit" value="Enviar"/>
-		</form>  
-        <?php
-            $basemaior = $_POST['basemaior'];
-            $basemenor = $_POST['basemenor'];
-            $altura = $_POST['altura'];
-        ?>
+		Base maior: <input type="text" name="basemaior" id="basemaior"/><br>
+		Base menor: <input type="text" name="basemenor" id="basemenor"/><br>
+		Altura: <input type="text" name="altura" id="altura"/><br>
+		<input type="submit" value="Enviar"/>
+     </form>
     </body>
 </html>
