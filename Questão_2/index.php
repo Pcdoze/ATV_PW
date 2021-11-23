@@ -1,5 +1,9 @@
 <!--
 Equipe:
+    Matheus Fialho Barbosa
+    Bianca Schiochet Tiepolo
+    Kleber Herivelto de Lima Cavalcanti Filho
+    Gabriel Rodrigues Leite S
 -->
 
 <?php
